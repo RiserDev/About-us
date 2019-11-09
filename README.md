@@ -2,7 +2,7 @@
 
 ## Game`s
 
-### CyberKnight
+### Eternity
 
 ## Mod`s
 
