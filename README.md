@@ -1,24 +1,15 @@
 # RiserDev
 
-## Game`s
-
-### Eternity
-
-## Mod`s
+## Mods
 
 ### Forager
 
-- Vanilla++
-- Avaritia
-- ToTheEndNew
+- [Vanilla++](https://github.com/RiserDev/VanillaPlusPlus)
+- [Avaritia](https://github.com/RiserDev/Avaritia)
+- [ToTheEndNew](https://github.com/RiserDev/To-The-End-New)
 
-## People`s
+## Creators
 
-### Developer
-
-- tehrelt
-- theshoket
-
-### Game Designer
-
-- d1ede
+- [tehrelt](https://vk.com/tehrelt)
+- [theshoket](https://vk.com/tehshoket)
+- [d1ede](https://vk.com/id274301729)
